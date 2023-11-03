@@ -1,5 +1,5 @@
 # learning-performance
-The regression project, which tries to answer the question: 'what are the key factors of learning performance'
+The regression project, which tries to answer the question: 'what are the key factors of learning performance'.
 The project consists of 3 files:
 
 Student_Performance.csv - the database
